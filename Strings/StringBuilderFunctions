@@ -1,0 +1,7 @@
+public class StringBuilderFunctions {
+    public static void main(String[] args) {
+        StringBuilder New = new StringBuilder("Sandeep");
+        System.out.println(New.capacity());
+        System.out.println(New.reverse());
+    }
+}
